@@ -1,0 +1,7 @@
+com\itheima\dao\TravellerMapper.class
+com\itheima\dao\OrdersMapper.class
+com\itheima\dao\ProductMapper.class
+com\itheima\dao\RoleMapper.class
+com\itheima\dao\MemberMapper.class
+com\itheima\dao\PermissionMapper.class
+com\itheima\dao\UserInfoMapper.class
